@@ -3,15 +3,28 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/FOODOHOLIC/app/src/main/res/drawable-v24/cat_background2.xml" value="0.22083333333333333" />
+        <entry key="..\:/FOODOHOLIC/app/src/main/res/drawable-v24/cat_background3.xml" value="0.22083333333333333" />
+        <entry key="..\:/FOODOHOLIC/app/src/main/res/drawable-v24/cat_background4.xml" value="0.22083333333333333" />
+        <entry key="..\:/FOODOHOLIC/app/src/main/res/drawable-v24/cat_background5.xml" value="0.22083333333333333" />
         <entry key="..\:/FOODOHOLIC/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/FOODOHOLIC/app/src/main/res/drawable-v24/orange_button2.xml" value="0.21666666666666667" />
+        <entry key="..\:/FOODOHOLIC/app/src/main/res/drawable/cart_background.xml" value="0.21780821917808219" />
+        <entry key="..\:/FOODOHOLIC/app/src/main/res/drawable/cat_background.xml" value="0.22083333333333333" />
         <entry key="..\:/FOODOHOLIC/app/src/main/res/drawable/ic__579788196sunbeams_red_orange_freesvg_org.xml" value="0.22083333333333333" />
         <entry key="..\:/FOODOHOLIC/app/src/main/res/drawable/ic_healthy_food_4_rev.xml" value="0.1" />
         <entry key="..\:/FOODOHOLIC/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/FOODOHOLIC/app/src/main/res/drawable/orange_button.xml" value="0.22083333333333333" />
+        <entry key="..\:/FOODOHOLIC/app/src/main/res/drawable/orange_light_banner.xml" value="0.22083333333333333" />
         <entry key="..\:/FOODOHOLIC/app/src/main/res/drawable/search_background.xml" value="0.22083333333333333" />
+        <entry key="..\:/FOODOHOLIC/app/src/main/res/drawable/viewholder_popular.xml" value="0.22083333333333333" />
         <entry key="..\:/FOODOHOLIC/app/src/main/res/layout/activity_intro.xml" value="0.2064814814814815" />
-        <entry key="..\:/FOODOHOLIC/app/src/main/res/layout/activity_main.xml" value="0.38547968885047534" />
+        <entry key="..\:/FOODOHOLIC/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/FOODOHOLIC/app/src/main/res/layout/activity_main2.xml" value="0.2064814814814815" />
+        <entry key="..\:/FOODOHOLIC/app/src/main/res/layout/activity_show_detail.xml" value="0.2" />
+        <entry key="..\:/FOODOHOLIC/app/src/main/res/layout/viewholder.xml" value="0.1" />
+        <entry key="..\:/FOODOHOLIC/app/src/main/res/layout/viewholder_category.xml" value="0.4" />
+        <entry key="..\:/FOODOHOLIC/app/src/main/res/layout/viewholder_popular.xml" value="0.264" />
         <entry key="..\:/FOODOHOLIC/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/FOODOHOLIC/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>
