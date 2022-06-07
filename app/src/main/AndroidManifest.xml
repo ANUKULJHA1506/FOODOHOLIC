@@ -10,6 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FOODOHOLIC">
         <activity
+            android:name=".Activity.CheckoutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.CartListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.ShowDetailActivity"
+            android:exported="false" />
+        <activity android:name=".Activity.MainActivity" />
+        <activity
             android:name=".Activity.IntroActivity"
             android:exported="true">
             <intent-filter>
