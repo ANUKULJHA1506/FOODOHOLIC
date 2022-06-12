@@ -7,6 +7,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 
 import com.codewithanukul.foodoholic.Activity.Adapter.CategoryAdapter;
@@ -14,13 +15,17 @@ import com.codewithanukul.foodoholic.Activity.Adapter.PoplurarAdapter;
 import com.codewithanukul.foodoholic.Activity.Domain.CategoryDomain;
 import com.codewithanukul.foodoholic.Activity.Domain.FoodDomain;
 import com.codewithanukul.foodoholic.R;
+import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
+
 private RecyclerView.Adapter adapter,adapter2;
 private RecyclerView recyclerViewCategoryList,recyclerViewPopularlist;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -29,10 +34,16 @@ private RecyclerView recyclerViewCategoryList,recyclerViewPopularlist;
         recyclerViewCategory();
         recyclerViewPopular();
         bottomNavigation();
+
+
     }
     private void bottomNavigation(){
         FloatingActionButton floatingActionButton=findViewById(R.id.cartBtn);
         LinearLayout homeBtn=findViewById(R.id.homeBtn);
+        LinearLayout profileBtn=findViewById(R.id.profileBtn);
+        LinearLayout supportBtn=findViewById(R.id.supportBtn);
+        LinearLayout settingsBtn=findViewById(R.id.settingsBtn);
+
 
         floatingActionButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -44,6 +55,25 @@ private RecyclerView recyclerViewCategoryList,recyclerViewPopularlist;
             @Override
             public void onClick(View view) {
                 startActivity(new Intent(MainActivity.this,MainActivity.class));
+            }
+        });
+
+        profileBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MainActivity.this,ProfileActivity.class));
+            }
+        });
+        supportBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MainActivity.this,SupportActivity.class));
+            }
+        });
+        settingsBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MainActivity.this,SettingsActivity.class));
             }
         });
     }
@@ -60,6 +90,7 @@ private RecyclerView recyclerViewCategoryList,recyclerViewPopularlist;
         category.add(new CategoryDomain("Hotdog","ic_hotdog"));
         category.add(new CategoryDomain("Drink","ic_drink"));
         category.add(new CategoryDomain("Donut","ic_donut"));
+        category.add(new CategoryDomain("Noodles","ic_noodles"));
 
 
         adapter =new CategoryAdapter(category);

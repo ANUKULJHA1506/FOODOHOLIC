@@ -30,6 +30,28 @@
         <entry key="..\:/FOODOHOLIC/app/src/main/res/layout/viewholder_popular.xml" value="0.264" />
         <entry key="..\:/FOODOHOLIC/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/FOODOHOLIC/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/drawable/ic_burger.xml" value="0.18" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/drawable/ic_cheese_burger2.xml" value="0.18" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/drawable/ic_donut.xml" value="0.18" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/drawable/ic_drink.xml" value="0.18" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/drawable/ic_drinks2.xml" value="0.18" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/drawable/ic_pizza.xml" value="0.18" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/drawable/ic_pizza2.xml" value="0.18" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/drawable/viewholder_popular.xml" value="0.18" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/layout/activity_cart_list.xml" value="0.18229166666666666" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/layout/activity_help.xml" value="0.25" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/layout/activity_intro.xml" value="0.18229166666666666" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/layout/activity_main.xml" value="0.18229166666666666" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/layout/activity_order_history.xml" value="0.18" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/layout/activity_payments.xml" value="0.18125" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/layout/activity_photo.xml" value="0.18125" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/layout/activity_policy.xml" value="0.25" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/layout/activity_settings.xml" value="0.18125" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/layout/activity_support.xml" value="0.18229166666666666" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/layout/activity_verification.xml" value="0.22" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/layout/viewholder_category.xml" value="0.22" />
+        <entry key="..\:/FOODOHOLIC1/app/src/main/res/layout/viewholder_popular.xml" value="0.18229166666666666" />
       </map>
     </option>
   </component>

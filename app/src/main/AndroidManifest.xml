@@ -18,7 +18,34 @@
         <activity
             android:name=".Activity.ShowDetailActivity"
             android:exported="false" />
+        <activity
+            android:name=".Activity.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.SupportActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.SettingsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.OrderHistoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.PaymentsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.PhotoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.HelpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.PolicyActivity"
+            android:exported="false" />
         <activity android:name=".Activity.MainActivity" />
+        <activity
+            android:name=".Activity.VerificationActivity"
+            android:exported="true"/>
         <activity
             android:name=".Activity.IntroActivity"
             android:exported="true">

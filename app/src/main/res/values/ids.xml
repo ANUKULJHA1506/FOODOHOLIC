@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textTxt10" type="id" />
+    <item name="textView10" type="id" />
+    <item name="textTxt9" type="id" />
+    <item name="userBtn" type="id" />
+    <item name="bottom_navigation" type="id" />
+    <item name="Profile" type="id" />
+    <item name="editText1" type="id" />
+</resources>

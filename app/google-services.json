@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794237554721",
+    "project_id": "foodoholic-ff091",
+    "storage_bucket": "foodoholic-ff091.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794237554721:android:73dc65b5d261e7a7725360",
+        "android_client_info": {
+          "package_name": "com.codewithanukul.foodoholic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794237554721-usmgejn219alih00st7qtm1mkcuhlfeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd1eCgdlvjUH3eIu0i-YD_mB4Xk0TLkEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794237554721-usmgejn219alih00st7qtm1mkcuhlfeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

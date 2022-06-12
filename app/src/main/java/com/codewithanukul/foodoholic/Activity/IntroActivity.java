@@ -5,7 +5,6 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
 
 import com.codewithanukul.foodoholic.R;
 
@@ -18,6 +17,6 @@ public class IntroActivity extends AppCompatActivity {
 
         startBtn = findViewById(R.id.startBtn);
 
-        startBtn.setOnClickListener(view -> startActivity(new Intent(IntroActivity.this,MainActivity.class)));
+        startBtn.setOnClickListener(view -> startActivity(new Intent(IntroActivity.this, MainActivity.class)));
     }
 }

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_marginTop="16dp"
+        android:text="Privacy and Security"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.044"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="406dp"
+        android:layout_height="461dp"
+        android:layout_marginBottom="212dp"
+        android:text="This privacy policy sets out how FoodApp.in uses and protects any information that you give us, when you use this website.
+
+FoodApp.in is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+
+FoodApp.in may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from August 01, 2020.
+
+What we collect?
+We may collect the following information:
+
+* name and job title
+* contact information including phone number and email address
+* demographic information such as postcode, preferences and interests
+* address for food delivery
+
+What we do with the information we gather?
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:Delivery of Food We use the Information to deliver Food at your Home/ office.Internal record keeping.We may use the information to improve our products and services. We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. "
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.2"
+        app:layout_constraintStart_toStartOf="parent" /><![CDATA[
+
+
+
+    , electronic and managerial procedures to safeguard and secure the information we collect online. "/>
+
+
+]]>
+</androidx.constraintlayout.widget.ConstraintLayout>
