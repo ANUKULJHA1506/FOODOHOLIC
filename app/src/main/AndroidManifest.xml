@@ -43,9 +43,7 @@
             android:name=".Activity.PolicyActivity"
             android:exported="false" />
         <activity android:name=".Activity.MainActivity" />
-        <activity
-            android:name=".Activity.VerificationActivity"
-            android:exported="true"/>
+        <activity android:name=".Activity.VerificationActivity" />
         <activity
             android:name=".Activity.IntroActivity"
             android:exported="true">
